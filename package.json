@@ -9,6 +9,8 @@
   "author": "Marvin Dawson",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.5.1"
+    "jquery": "^3.5.1",
+    "paypal": "^1.0.1",
+    "stripe": "^8.135.0"
   }
 }
