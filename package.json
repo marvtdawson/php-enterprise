@@ -1,0 +1,14 @@
+{
+  "name": "enterprise",
+  "version": "1.0.0",
+  "description": "An PHP Enterprise MVC Application",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marvin Dawson",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
