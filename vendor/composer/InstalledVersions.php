@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '5f161573e67f8c992094ee1c477cabab25a4e990',
+    'reference' => '7662ddcda511ba47853227a4f1f7a11be0def656',
     'name' => '__root__',
   ),
   'versions' => 
@@ -31,7 +31,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '5f161573e67f8c992094ee1c477cabab25a4e990',
+      'reference' => '7662ddcda511ba47853227a4f1f7a11be0def656',
     ),
     'doctrine/instantiator' => 
     array (
@@ -108,6 +108,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '6a467b8989322d92aa1c8bf2bebcc6e5c2ba55c0',
+    ),
+    'phpmailer/phpmailer' => 
+    array (
+      'pretty_version' => 'v6.2.0',
+      'version' => '6.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'e38888a75c070304ca5514197d4847a59a5c853f',
     ),
     'phpspec/prophecy' => 
     array (
@@ -325,6 +334,15 @@ private static $installed = array (
       ),
       'reference' => 'c6c942b1ac76c82448322025e084cadc56048b4e',
     ),
+    'symfony/polyfill-mbstring' => 
+    array (
+      'pretty_version' => 'v1.22.0',
+      'version' => '1.22.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f377a3dd1fde44d37b9831d68dc8dea3ffd28e13',
+    ),
     'theseer/tokenizer' => 
     array (
       'pretty_version' => '1.2.0',
@@ -333,6 +351,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '75a63c33a8577608444246075ea0af0d052e452a',
+    ),
+    'twig/twig' => 
+    array (
+      'pretty_version' => 'v3.3.0',
+      'version' => '3.3.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '1f3b7e2c06cc05d42936a8ad508ff1db7975cdc5',
     ),
     'webmozart/assert' => 
     array (
